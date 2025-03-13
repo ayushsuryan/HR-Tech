@@ -1,0 +1,7 @@
+{
+  "name": "EmployeeHubApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
